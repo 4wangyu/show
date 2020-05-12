@@ -2,9 +2,9 @@
   "name": "@4wangyu/show",
   "version": "0.0.0",
   "description": "",
-  "main": "bin/show.js",
+  "main": "bin/show",
   "bin": {
-    "show": "bin/show.js"
+    "show": "bin/show"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
