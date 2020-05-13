@@ -1,6 +1,6 @@
 {
   "name": "@4wangyu/show",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "bin/show",
   "bin": {
@@ -27,8 +27,5 @@
     "commander": "^5.1.0",
     "ora": "^4.0.4",
     "update-notifier": "^4.1.0"
-  },
-  "devDependencies": {
-    "jshint": "^2.11.0"
   }
 }
