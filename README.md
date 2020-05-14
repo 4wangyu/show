@@ -1,6 +1,6 @@
 # [show](https://www.npmjs.com/package/@4wangyu/show)
 
-A English dictionary
+An English dictionary
 
 ## Installation
 
