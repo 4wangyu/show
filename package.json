@@ -1,7 +1,7 @@
 {
   "name": "@4wangyu/show",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "English dictionary in the shell.",
   "main": "bin/show",
   "bin": {
     "show": "bin/show"
@@ -14,9 +14,15 @@
     "type": "git",
     "url": "git+https://github.com/4wangyu/show.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "english",
+    "dictionary",
+    "shell",
+    "command line",
+    "cli"
+  ],
+  "author": "Wang Yu <4wangyu@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/4wangyu/show/issues"
   },
